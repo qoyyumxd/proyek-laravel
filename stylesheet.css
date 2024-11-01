@@ -1,0 +1,84 @@
+*, html{
+    background-color: grey;
+    margin-left: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#Judul {
+    background-color: yellow;
+    color: red;
+    padding: 1px;
+    margin: 5px;
+    text-align: center;
+}
+.paragraf {
+    color: blue;
+    font-size: 15px;
+    margin-top:5px;
+    background-color: grey;
+}
+.subjudul {
+    color: black;
+    font-size: 20px;
+}
+.teks-login, u {
+    color: black;
+    background-color: white;
+}
+h1 {
+    color: red;
+    margin-left: 10px;
+}
+p {
+    margin-left: 15px;
+    background-color: white;
+}
+i {
+    color: red;
+}
+h2 {
+    color: black;
+    margin-left: 10px;
+    background-color: white;
+    margin-top: 10;
+}
+input {
+    background-color: white;
+}
+button {
+    background-color: white;
+    margin-top: 20px;
+}
+.halamanlogin {
+    display: flex;
+    border-style: solid;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    align-items: flex-start;
+}
+form, label, i {
+    background-color: white;
+}
+.foto-login {
+    max-width: 200px;
+    margin-right: -5px;
+}
+.form-login {
+    background-color: white;
+    flex-grow: 1;
+}
+.separator {
+    background-color: yellow;
+    width: 3px;
+    height: 200px;
+    margin-top: 20px;
+}
